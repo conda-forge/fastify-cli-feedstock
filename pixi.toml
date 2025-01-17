@@ -4,7 +4,7 @@
 
 [project]
 name = "fastify-cli-feedstock"
-version = "3.45.0"
+version = "3.45.2"
 description = "Pixi configuration for conda-forge/fastify-cli-feedstock"
 authors = ["@conda-forge/fastify-cli"]
 channels = ["conda-forge"]
