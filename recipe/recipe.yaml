@@ -1,5 +1,5 @@
 context:
-  version: "7.3.0"
+  version: "7.4.0"
 
 package:
   name: fastify-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/fastify-cli/-/fastify-cli-${{ version }}.tgz
-  sha256: a54f72dbca61780b433b51faa5b612b8960025a7c91125d216548c6dfd2f9d11
+  sha256: 4edfe6f47dcf9588c48d9ec7767c9832ffcda0e6e2ded730a44bd6fcdce73766
 
 build:
   number: 0
